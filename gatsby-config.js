@@ -3,7 +3,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: "My First Gatsby Site",
+    title: "362",
   },
   plugins: [
     "gatsby-plugin-image",
